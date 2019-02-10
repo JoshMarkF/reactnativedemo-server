@@ -1,0 +1,23 @@
+{
+  "name": "reactnativedemo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshMarkF/reactnativedemo-server.git"
+  },
+  "author": "Joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshMarkF/reactnativedemo-server/issues"
+  },
+  "homepage": "https://github.com/JoshMarkF/reactnativedemo-server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

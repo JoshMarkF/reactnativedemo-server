@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "Superman",
+        "nickname": "The Man Of Steel",
+        "trueidentity": "Clark Kent",
+        "race": "Kryptonian",
+        "img": "https://static.comicvine.com/uploads/scale_medium/13/132327/6507037-28872490_1638064799604695_1250122498385004714_n.jpg",
+        "thumbnail": "https://i.pinimg.com/originals/87/3a/e5/873ae59c6165e09fc14291628ba6082f.png"
+    },
+    {
+        "id": "2",
+        "name": "Batman",
+        "nickname": "The Dark Knight",
+        "trueidentity": "Bruce Wayne",
+        "race": "Human",
+        "img": "https://static.comicvine.com/uploads/original/3/39636/2635668-a2.jpg",
+        "thumbnail": "https://media.alienwarearena.com/media/7bb0c07df5c37ef21ecd34b27edf1e04.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Wonder Woman",
+        "nickname": "The Amazing Amazon",
+        "trueidentity": "Diana Prince",
+        "race": "Amazonian-Olympian",
+        "img": "https://static.comicvine.com/uploads/scale_small/10/103530/6444044-4130984370-aHR0cDovL3d3dy5uZXdzYXJhbWEuY29tL2ltYWdlcy9pLzAwMC8yMjcvMjY2L29yaWdpbmFsL0pMXzFfdmFyX01hcmtfQnJvb2tzX2IuanBn",
+        "thumbnail": "https://rlv.zcache.com/wonder_woman_classic_logo_classic_round_sticker-r7a91b2a0ce7745e79bf32237dc077fd0_v9waf_8byvr_540.jpg"
+    },
+    {
+        "id": "4",
+        "name": "The Flash",
+        "nickname": "The Scarlet Speedster",
+        "trueidentity": "Barry Allen",
+        "race": "Human",
+        "img": "https://static.comicvine.com/uploads/original/11112/111124555/3677872-0714626338-Flash.jpg",
+        "thumbnail": "https://i.pinimg.com/originals/45/21/14/452114fd0b06f3a0bf896e30d1ccda6d.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Green Lantern",
+        "nickname": "The Emerald Crusader",
+        "trueidentity": "Hal Jordan",
+        "race": "Human",
+        "img": "https://static.comicvine.com/uploads/original/14/144096/3583293-7577285897-Hal_J.png",
+        "thumbnail": "https://seeklogo.com/images/G/Green_Lantern_Corps-logo-B8F8C9C307-seeklogo.com.png"
+    }
+]
