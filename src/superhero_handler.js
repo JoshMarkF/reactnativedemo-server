@@ -4,7 +4,7 @@ const fs = require('fs');
 
 let getSuperHeroData = () => {
     let rawdata = fs.readFileSync('./data/superheroes.json');  
-    let superheroes = JSON.parse(rawdata);  
+    let superheroes = JSON.parse(rawdata);
     return superheroes;
 }
 

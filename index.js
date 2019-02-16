@@ -3,7 +3,7 @@ const app = express();
 
 let getSuperHeroData = require('./src/superhero_handler').getSuperHeroData;
 
-const port = 3000;
+const port = process.env.PORT || 8000;
 
 app.get('/', (req, res) => res.send('Hello World!'));
 
